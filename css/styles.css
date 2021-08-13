@@ -1,0 +1,22 @@
+body{background-color: #7952B3;}
+
+h1{color: #D9E4DD;}
+
+h3{color: #171010;}
+
+p{font-size: 18px;color: #2B2B2B;}
+
+a{color: #171010;}
+
+b{color: #171010;}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: white;
+border-width: 8px;
+width: 10%;}
+
+table{
+  border-color: black;
+}
